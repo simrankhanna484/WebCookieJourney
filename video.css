@@ -1,0 +1,14 @@
+
+video {
+    width: 100%;
+    max-width: 1240px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+  }
+  
+  body {
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
